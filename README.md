@@ -25,5 +25,4 @@ This project is an ESP32-based smart parking system that manages gate access and
 ---
 
 ### 👤 Author
-
 vuong.tt1807
